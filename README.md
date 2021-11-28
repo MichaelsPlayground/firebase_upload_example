@@ -17,6 +17,9 @@ build.gradle:
     dependencies {
         classpath 'com.google.gms:google-services:4.3.5'
 
+build.gradle (App):
+apply plugin: 'com.google.gms.google-services'
+
 manuell den Namen in AndroidManifest.xml geändert:
 debug, main und profile
 
