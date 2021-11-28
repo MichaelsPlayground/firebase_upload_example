@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "871301087204",
-    "project_id": "upload-files-5dd24",
-    "storage_bucket": "upload-files-5dd24.appspot.com"
+    "project_number": "818384669570",
+    "project_id": "fir-chatexample-95ac6",
+    "storage_bucket": "fir-chatexample-95ac6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:871301087204:android:dc25b9fbca3fbeb47b91f1",
+        "mobilesdk_app_id": "1:818384669570:android:73e7ee0b077628da9b5d9b",
         "android_client_info": {
-          "package_name": "com.example.firebase_upload_example"
+          "package_name": "com.example.firebaseChatExample"
         }
       },
       "oauth_client": [
         {
-          "client_id": "871301087204-dsfkk1783eehes8a3fqgf0f2p5jn6tgp.apps.googleusercontent.com",
+          "client_id": "818384669570-rfve3ih4dj0b1rugv1ijtjss77jaq8b0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDVMjKbcKvkAaiG_F9m9ugZ05copUGEj00"
+          "current_key": "AIzaSyDeihbO9gErgv_YTUYmkqkTlSbIBPlCg50"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "871301087204-dsfkk1783eehes8a3fqgf0f2p5jn6tgp.apps.googleusercontent.com",
+              "client_id": "818384669570-rfve3ih4dj0b1rugv1ijtjss77jaq8b0.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "818384669570-ts08l75osa56t23uias59ulme5aimkd2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChatExample"
+              }
             }
           ]
         }
